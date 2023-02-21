@@ -1,0 +1,3 @@
+Install python and if packages tkinter and Pillow (PIL) not installed install with: -----------------------     ---------------------- 
+                                                                                    | pip install tkinter | and | pip install pillow |
+                                                                                    -----------------------     ---------------------- .
